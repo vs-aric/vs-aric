@@ -66,7 +66,6 @@ As part of a dynamic analytics team at **Vanilla Steel**, I:
   <img src="https://img.shields.io/badge/-dbt-ff694b?style=flat&logo=dbt&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white" height="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" />
-  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="20" />
 </p>
 
