@@ -98,7 +98,7 @@ As part of a dynamic analytics team at **Vanilla Steel**, I:
 ## 🔗 Connect With Me
 
 - 🌐 Personal GitHub: [github.com/Arickaji](https://github.com/Arickaji)  
-- 🧑‍💼 LinkedIn: [linkedin.com/in/arickaji](https://linkedin.com/in/arickaji)  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/arickaji](https://www.linkedin.com/in/aric-kaji/)  
 
 ---
 
